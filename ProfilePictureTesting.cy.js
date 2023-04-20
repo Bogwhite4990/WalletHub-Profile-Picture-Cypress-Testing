@@ -1,8 +1,8 @@
 import 'cypress-file-upload';
 
 
-const userName = 'test_inscomp@evolutionfinance.com';
-const password = 'Abcd321*';
+const userName = 'test';
+const password = 'test';
 
 describe('WalletHub Profile Picture Testing', () => {
     it('Visit the profile website', () => {
